@@ -1,0 +1,19 @@
+# Site settings
+name: locoko
+location: 长沙
+company: ing
+position: teache
+github: https://github.com/locokoing/polaris-roms
+filebox: https://www.facebook.com/
+phone: maybe shit
+email: locokoing@gmail.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
